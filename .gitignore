@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+.next/
+out/
+dist/
+
+# Production files
+*.log
+yarn-error.log
+npm-debug.log
+pnpm-debug.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build and cache
+.cache/
+.vercel/
+.netlify/
