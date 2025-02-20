@@ -3,15 +3,13 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import { Menu, X, ChevronDown, Scroll } from 'lucide-react'
-import { Link as ScrollLink, Element } from "react-scroll";
+import { Menu, X, ChevronDown} from 'lucide-react'
 import logo from '../../../public/image/patel_logo.png'
 
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [isAboutOpen, setIsAboutOpen] = useState(false)
-  // const [isAboutOpen2, setIsAboutOpen2] = useState(false)
   const [isAboutOpen3, setIsAboutOpen3] = useState(false)
 
   const toggleMenu = () => {
@@ -19,8 +17,7 @@ export default function Navbar() {
   }
 
   return (
-    <Element 
-    name="top"
+    <div 
     className="bg-white border-b-2 border-black shadow-md fixed top-0 right-0 w-full z-50 ">
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -260,6 +257,6 @@ export default function Navbar() {
           
         </div>
       )}
-    </Element>
+    </div>
   )
 }

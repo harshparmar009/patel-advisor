@@ -1,4 +1,4 @@
-import { Users, Building2, Rocket, Gem, Lock, Diamond, Users2, Award, ChevronUp, Globe, BarChart3, Trophy, TrendingUp, Factory } from 'lucide-react'
+import { Users, Building2, Rocket, Award} from 'lucide-react'
 
 export default function Achieve() {
   return (
