@@ -1,9 +1,4 @@
-"use client"
 
-import Image from 'next/image'
-import { CircularProgressbar, buildStyles } from 'react-circular-progressbar'
-import 'react-circular-progressbar/dist/styles.css'
-import { Sun, Wind, Zap } from 'lucide-react'
 import Footer from '@/components/pages/Footer'
 import Navbar from '@/components/pages/Navbar'
 
