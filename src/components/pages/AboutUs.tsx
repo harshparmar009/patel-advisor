@@ -20,7 +20,7 @@ export default function AboutUs () {
           />
       </div>
       <p className="text-center text-lg mb-12 max-w-3xl mx-auto ">
-      Patel Legal Advisors EXPERT is a fastest growing organization which provides solution of your any business related queries. We here provides all type of Business Registration assistance. Patel Legal Advisors EXPERT was registered in 2022 with a mission to provide best professional services. We have a professional Team players having 5+ years experience in our team as our Team is built with professional Chartered Accountants, Company Secretaries and Lawyers. We provide our Services Pan India.
+      Patel Legal Advisors is a fastest growing organization which provides solution of your any business related queries. We here provides all type of Business Registration assistance. Patel Legal Advisors was registered in 2022 with a mission to provide best professional services. We have a professional Team players having 5+ years experience in our team as our Team is built with professional Chartered Accountants, Company Secretaries and Lawyers. We provide our Services Pan India.
       </p>
      
     </main>

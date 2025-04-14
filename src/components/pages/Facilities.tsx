@@ -1,7 +1,7 @@
 const reviews = [
-  { name: '- Shree Nivas', text: 'Patel Legal Advisors EXPERT Team helped me to manage my compliances and filing on time, C AND C EXPERT Team helped me to manage my compliances and filing on time. I am really impressed with their services. It was great experience to have this kind of co-operation' },
+  { name: '- Shree Nivas', text: 'Patel Legal Advisors Team helped me to manage my compliances and filing on time, Team helped me to manage my compliances and filing on time. I am really impressed with their services. It was great experience to have this kind of co-operation' },
   { name: '- Jai Shree', text: 'Package suggested to us is Very Affordable is a Plus Point. I would definitely recommend their service' },
-  { name: '- Anand', text: 'Patel Legal Advisors EXPERT provides phenomenal service and support to us. They have excellent team of employees who take great effort in satisfying our queries and requirements.' },
+  { name: '- Anand', text: 'Patel Legal Advisors provides phenomenal service and support to us. They have excellent team of employees who take great effort in satisfying our queries and requirements.' },
   { name: '- Ramesh', text: 'This firm really helped me a lot, their behavior is also so good.' },
 ];
 

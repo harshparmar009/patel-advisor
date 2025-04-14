@@ -8,10 +8,12 @@ const Footer = () => {
         {/* Contact and Links */}
         <div className="mt-6 grid grid-cols-1 md:grid-cols-3 gap-6 text-center md:text-left">
           <div>
-            {/* <h3 className="font-bold">Main Office</h3> */}
-            {/* <p>A/8, Dhanlaxmi Tower, Vastrapur, Near Vastrapur Lake, Ahmedabad, Gujarat - 380015</p> */}
+             <h3 className="font-bold">Main Office</h3> 
+             <p>E-202, Swagat Rainforest-1, Kudasan, Gandhinager-382481, Gujarat</p> 
+
             <h3 className="font-bold mt-4">Branch Office</h3>
-            <p>E-202, Swagat Rainforest-1, Kudasan, Gandhinager-382481, Gujarat</p>
+            <p>Office No. 492, Mavaji Tower, Saroda, Sagwara, Dungarpur, Rajasthan: 314032</p>
+            
           </div>
           <div>
             <h3 className="font-bold">Main Services</h3>

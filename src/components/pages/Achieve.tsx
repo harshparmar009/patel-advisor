@@ -16,6 +16,16 @@ export default function Achieve() {
         <StatCard icon={<Rocket className="w-6 h-6 sm:w-8 sm:h-8 text-blue-700" />} title="5 Year" subtitle="Experiance" />
       </div>
 
+      <div className='flex items-center justify-center w-full '>
+        <a href="https://www.candcexpert.in/"
+          target="_blank" 
+          rel="noopener noreferrer"
+        >
+        <button className='text-md px-6 py-3 bg-blue-500 text-white font-semibold rounded-md hover:bg-blue-600'>
+          Read Blog
+        </button>
+        </a>
+      </div>
 
     </div>
   )
